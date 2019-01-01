@@ -1,0 +1,24 @@
+_repo: The-Story-of-the-Siren_58581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
+description: ''
+gutenberg_issued: '2018-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Story of the Siren
+url: http://www.gutenberg.org/ebooks/58581
